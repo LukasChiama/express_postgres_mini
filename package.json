@@ -1,0 +1,15 @@
+{
+  "name": "postgres_app",
+  "version": "1.0.0",
+  "description": "Mini app for Node.js and PostgreSQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chukwualuka Chiama",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "pg": "^7.9.0"
+  }
+}
